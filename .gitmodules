@@ -1,3 +1,6 @@
 [submodule "techwreck-front"]
 	path = techwreck-front
 	url = https://github.com/gsathya28/techwreck-front
+[submodule "techwreck-back"]
+	path = techwreck-back
+	url = https://github.com/gsathya28/techwreck-back
